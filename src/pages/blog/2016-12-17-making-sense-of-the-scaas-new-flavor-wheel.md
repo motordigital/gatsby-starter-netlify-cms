@@ -11,7 +11,7 @@ tags:
   - flavor
   - tasting
   - naja
-  - '####adas'
+  - eqe
 ---
 ![flavor wheel](/img/jumbotron.jpg)
 
